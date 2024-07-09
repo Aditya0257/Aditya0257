@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya! 👋
 
-## 🚀 Full-Stack Developer | Cloud Enthusiast
+## 🚀 Full-Stack Developer | Devops Enthusiast
 
 I'm passionate about building scalable web and mobile applications. Always excited to optimize performance and explore new technologies.
 
