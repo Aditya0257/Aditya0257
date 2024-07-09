@@ -8,9 +8,9 @@ I'm passionate about building scalable web and mobile applications. Always excit
 - **Languages:** C++, TypeScript, Python
 - **Frontend:** React, Next.js, Flutter
 - **Backend:** Node.js, Express.js, NestJS, Hono.js
-- **Cloud:** AWS, Cloudflare Workers
+- **Cloud:** AWS (EC2, S3, Cloudfront), Cloudflare Workers
 - **Databases:** PostgreSQL, Firebase, MongoDB
-- **Other:** Prisma - Accelerate, Actionable Docker, Git
+- **Devops & Infra:** Actionable Docker, Git, GitHub, macOS(iterm)
 
 ### 🏆 Achievements
 
