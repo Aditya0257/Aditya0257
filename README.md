@@ -60,9 +60,9 @@ You can reach out to me through the following channels:
 
 ### 🔭 Ongoing Projects 
 
-- **Fin Transact:** A financial transaction platform for seamless money transfers and withdrawals, with features including user/merchant authentication, on ramp/off ramp transactions, and real-time webhooks.
-- **SkillSync:** AI-driven platform for CS interview practice
-- **Dev Daily Nexus:** Developer-centric platform for project blogs and collaboration
+- [Fintransact](https://github.com/Aditya0257/fintransact.git): A financial transaction platform for seamless money transfers and withdrawals, with features including user/merchant authentication, on ramp/off ramp transactions, and webhooks.
+- [SkillSync](https://github.com/Aditya0257/quesprac_msv): AI-driven platform for CS interview practice
+- [Dev Daily Nexus](https://github.com/Aditya0257/DevDaily): Developer-centric platform for project blogs and collaboration
 
 ## 🔭 My Projects
 
