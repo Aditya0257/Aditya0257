@@ -1,20 +1,22 @@
 # Hi there, I'm Aditya! 👋
 
-## 🚀 Full-Stack Developer | Devops Enthusiast
+## 🚀 Software Developer | Cloud Computing Practitioner | Learning DevOps | Web3 Enthusiast
 
 I'm passionate about building scalable web and mobile applications. Always excited to optimize performance and explore new technologies.
 
 ### 🛠️ Tech Stack
-- **Languages:** C++, TypeScript, Python
+- **Languages:** C++ (DSA focused), TypeScript, Python (familiar)
 - **Frontend:** React, Next.js, Flutter
 - **Backend:** Node.js, Express.js, NestJS, Hono.js
-- **Cloud:** AWS (EC2, S3, Cloudfront), Cloudflare Workers
-- **Databases:** PostgreSQL, Firebase, MongoDB
-- **Devops & Infra:** Actionable Docker, Git, GitHub, macOS(iterm)
+- **Cloud:** AWS (EC2, S3, Cloudfront), Vultr, Cloudflare Workers
+- **Storages:** PostgreSQL, MySQL, Redis (Caching & Message Broker), MongoDB, Firebase
+- **Devops & Infra:** Docker, Kubernetes (familiar), Nginx, Git, GitHub, macOS(iterm)
 
 ### 🏆 Achievements
 
 - AWS Certified Cloud Practitioner
+- NPTEL Cloud Computing - Silver Elite ranked
+- iamneo HPC C++ DSA certified
 - Oracle Associate - Application Development
 - 400+ DSA problems solved on GFG and LeetCode
 
