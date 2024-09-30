@@ -70,8 +70,11 @@ You can reach out to me through the following channels:
 
 Here are some of the projects I've worked on:
 
-- [TuneUp](https://github.com/Aditya0257/TuneUp): Music streaming platform built on Python, SCSS with ytmusic API.
+- [SyncSheetDB](https://github.com/Aditya0257/SyncSheetDB): A bi-directional data syncing application between Google Sheets and PostgreSQL, using microservices, RabbitMQ, and Redis for conflict management and configuration storage.
+- [ethDepositTracker](https://github.com/Aditya0257/eth_deposit_tracker): An Ethereum deposit tracker that monitors and records ETH deposits using Alchemy SDK and stores data with Prisma in a PostgreSQL database.
+- [TuneUp](https://github.com/Aditya0257/TuneUp): A Python-based music streaming platform utilizing the YouTube Music API for content.
 - [Last Minute](https://github.com/Aditya0257/LastMinute): An ambulance booking application built with Flutter.
+- [NexusBlog](https://github.com/Aditya0257/nexusblog): Nexus is a blogging application that allows users to create and read blogs.
 
 Feel free to explore my repositories for more projects and code samples!
 
