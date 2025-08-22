@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya! 👋
 
-## 🚀 Software Developer | Cloud Practitioner | Learning DevOps | Web3 Enthusiast
+## 🚀 Software Developer | Cloud Practitioner | Learning DevOps
 
 I'm passionate about building scalable web and mobile applications. Always excited to optimize performance and explore new technologies.
 
